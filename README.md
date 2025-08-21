@@ -14,11 +14,11 @@ The project covers:
 ## 🗂 Project Structure  
 
 Netflix-Originals-Analysis/
-│
-├── data/ # Sample dataset (CSV/SQL dump)
-├── scripts/ # SQL queries (schema, analysis, transformations)
-├── docs/ # Documentation (ERD, schema notes, reports)
-└── README.md # Project overview
+
+- data/ # Sample dataset (CSV/SQL dump)
+- scripts/ # SQL queries (schema, analysis, transformations)
+- docs/ # Documentation (ERD, Project Details)
+- README.md # Project overview
 
 
 ---
